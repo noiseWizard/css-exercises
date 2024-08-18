@@ -22,3 +22,9 @@ The properties you need to add to each element are:
 - Does the `div` element have CSS added via the external method?
 - Does the `p` element have CSS added via the internal method?
 - Does the `button` element have CSS added via the inline method?
+
+# my notes upon review
+## first attempt
+I misread the instructions, and forgot to read this readme before starting. This resulted in me getting the internal and inline method mixed up.
+
+I will take a break, and then return to fix this error.
