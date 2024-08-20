@@ -1,0 +1,14 @@
+.buttonClickMe {
+    background-color: black;
+    color: white;
+}
+
+.buttonNoMe {
+    background-color: yellow;
+}
+
+.buttonClickMe,
+.buttonNoMe {
+    font-size: 28px;
+    font-family: 'Helvetica' 'Times New Roman', sans-serif;
+}
