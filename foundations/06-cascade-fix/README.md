@@ -21,3 +21,7 @@ Issues with the cascade can be the bane of their existence for many when it come
 I believe I've completed it correctly, it is a bit tricky because of the screenshot fonts being slightly different. However, I -think- it's assigning the correct things in the right location.
 
 I'll submit and we'll see ho right or wrong I am.
+
+Update: I looked at the solution and it seems like I got the right output. I did a copy/paste of the solution, refreshed the page and there were no changes! Happy with completing this challenge.
+
+Time to move on.
