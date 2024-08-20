@@ -23,3 +23,6 @@ Quick tip: in VS Code, you can change which format colors are displayed in RGB, 
 - Do the odd numbered `p` elements share a class?
 - Do the even numbered `div` elements have unique IDs?
 - Does the Number 3 element have multiple classes?
+
+### Self reflection
+- comparing my css to the proposed solution shows a similar outcome, with different class names. I'm seeing this as a success and moving on.
