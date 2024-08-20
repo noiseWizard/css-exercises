@@ -16,3 +16,8 @@ Issues with the cascade can be the bane of their existence for many when it come
 
 - Did you make sure to not edit the HTML file?
 - If you added selectors to the CSS, do they target a valid HTML element?
+
+### Self reflect
+I believe I've completed it correctly, it is a bit tricky because of the screenshot fonts being slightly different. However, I -think- it's assigning the correct things in the right location.
+
+I'll submit and we'll see ho right or wrong I am.
