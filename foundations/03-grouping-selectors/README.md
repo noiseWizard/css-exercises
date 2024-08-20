@@ -17,3 +17,8 @@ This will help you further practice adding classes and using class selectors, so
 - Does each element have a unique class name?
 - Did you use the grouping selector for styles that both elements share?
 - Did you make separate rules for the styles unique to each element?
+
+### Self reflection
+apart from using ' instead of " around the fonts, seems like it's the same, just in a different order. I've changed it to use " as this is easier for me see, and it seems as if there's no change to whether to use ' or "
+
+Completed, and moving on.
