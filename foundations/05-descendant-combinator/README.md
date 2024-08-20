@@ -16,3 +16,8 @@ The properties you need to add are:
 ### Self Check
 - Do the elements that contain the text "This should be styled" have the correct styles applied?
 - Do the elements that contain the text "This should be unstyled" have no styles applied?
+
+### Self reflect
+I got the correct output, however I used the .first class > .second class approach with the >.
+
+Good to know it's not needed.
