@@ -16,3 +16,9 @@ Use this section to check your work. On _these_ projects, your goal isn't to att
 - Everything inside the `.button-container` section is centered, and there is 8px padding.
 - The Big Button is centered on its own line.
 - The Big Button has 24px space on the sides, and 8px on top and bottom.
+
+### Self Reflect
+#### before solution review
+made a couple of changes which weren't specified however unsure what the alternatives were for these:
+1. card width - increased to 500px from 400px, unsure how else to widen it based on the parameters provided.
+2. using text align on the .button-container - i couldn't find a way use margins to properly center the text.
