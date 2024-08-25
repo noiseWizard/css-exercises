@@ -22,3 +22,12 @@ Use this section to check your work. On _these_ projects, your goal isn't to att
 made a couple of changes which weren't specified however unsure what the alternatives were for these:
 1. card width - increased to 500px from 400px, unsure how else to widen it based on the parameters provided.
 2. using text align on the .button-container - i couldn't find a way use margins to properly center the text.
+
+#### after solution review
+interesting how the solution didn't include the card width, and when I load the solution, it reverts back to the 400px width. this is an example of me following the directions closer than what's expected.
+
+only other big change I can see is the margin's having the bottom specifically impacted, however this doesn't influence the appearance too much.
+
+the code differences aren't significant enough that I don't feel uncomfortable to progress. it's just a good example of seeing how different kinds of code can have the same or similar results.
+
+also fixed a minor issue with the button margin missing a ;
