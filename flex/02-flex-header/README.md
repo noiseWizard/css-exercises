@@ -18,3 +18,6 @@ wide:
 - Your solution does not use floats, inline-block, or absolute positioning.
 
 - Note: For this exercise, it's completely acceptable to not match the font-family.
+
+### Self reflection
+Comparing to the solution, the only thing was different is I was 2px off the solution. No surprises with the other code, apart from it's order.
