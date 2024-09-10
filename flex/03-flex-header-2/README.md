@@ -19,3 +19,6 @@ As with the last example, this one needs to be flexible in the middle, with item
 - Items are arranged horizontally as seen in the outcome image.
 - There is 16px between each item on both sides of the header.
 - flex is used to arrange everything.
+
+### Self review
+- everthing seems on point, the only thing I did differently was assign the <ul> a class and assigned the changes in there. while I know there's the "official solution", the idea of making changes to elements specifically for things like the menu doesn't seem to be the best option. commiting and moving on.
