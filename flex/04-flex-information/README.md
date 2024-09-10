@@ -17,3 +17,8 @@ For this one you will need to edit the HTML a little bit too. We can't be making
 - The items are arranged horizontally on the page.
 - The items are only 200px wide and the text wraps.
 - The item text is centered.
+
+### Self reflection
+almost got it right. the only difference is i added an additional container and centered everything using it. unfortunately, this doesn't align the heading and it's slightly off center.
+
+I'll update my version with additional alignments so if I need to refer back to it in future, it won't cause me headaches.
